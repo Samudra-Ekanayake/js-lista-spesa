@@ -14,3 +14,4 @@ while (i < listaSpesa.length) {
     console.log(listaSpesa [i])
 }
 
+
